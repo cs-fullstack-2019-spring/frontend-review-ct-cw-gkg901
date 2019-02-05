@@ -1,0 +1,35 @@
+
+
+td{
+
+    width: 150px;
+    height:150px;
+    text-align: center;
+    font-size: 65px;
+}
+
+td:hover{
+    border: 1px solid grey;
+
+}
+
+header{
+    text-align: center;
+}
+
+table{
+    margin: auto;
+}
+
+
+/*BORDERS*/
+.vertical{
+    border-left: 2px solid orangered;
+    border-right: 2px solid orangered;
+}
+
+.horizontal{
+    border-top: 2px solid orangered;
+    border-bottom: 2px solid orangered;
+}
+
