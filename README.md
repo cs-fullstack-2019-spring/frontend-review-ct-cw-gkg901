@@ -1,3 +1,6 @@
+### POINTS: 2
+### Nice Job! But start putting meaningful comments in!
+
 # Frontend Review CT complete CW
 
 ### Exercise 1:
